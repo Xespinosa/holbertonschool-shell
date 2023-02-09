@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to list all files (hidden included) from working directory parent and /boot"
+git commit -m "script to display file type for iamafile within tmp"
 git push

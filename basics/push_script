@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "creating script to push automatically"
+git commit -m "created script to list all files including hidden ones"
 git push

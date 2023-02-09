@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to delete a file"
+git commit -m "script to delete a directory"
 git push

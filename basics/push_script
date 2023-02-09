@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "created script to list all files including hidden ones"
+git commit -m "script to view numerical user ID's for all files"
 git push

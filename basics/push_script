@@ -1,0 +1,4 @@
+#!/bin/bash
+git add .
+git commit -m "creating script to push automatically"
+git push

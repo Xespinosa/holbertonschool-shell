@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to create the first directory added"
+git commit -m "script to move a file"
 git push

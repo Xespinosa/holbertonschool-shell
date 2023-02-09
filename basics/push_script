@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to display file type for iamafile within tmp"
+git commit -m "script to creat a symbolic link"
 git push

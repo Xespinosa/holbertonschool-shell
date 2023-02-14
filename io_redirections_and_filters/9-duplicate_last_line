@@ -1,2 +1,2 @@
 #!/bin/bash
-head acta 
+head -n 12 iacta | tail -n 13

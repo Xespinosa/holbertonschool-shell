@@ -1,2 +1,2 @@
 #!/bin/bash
-cp  tail -n 1 
+head -n 10 | tail -n 1 

@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to Write a script that counts the number of directories and sub-directories in the current directory"
+git commit -m "script to Create a script that displays the 10 newest files in the current directory."
 git push

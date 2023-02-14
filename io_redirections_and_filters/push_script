@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Write a script that reverse its input."
+git commit -m "Write a script that displays all users and their home directories, sorted by users."
 git push

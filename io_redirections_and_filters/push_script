@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script that takes a list of words as input and prints only words that appear exactly once."
+git commit -m "script that displays lines containing the pattern “root” from the file /etc/passwd "
 git push

@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --sort = vnstat /etc/passwd
+sort  /etc/passwd

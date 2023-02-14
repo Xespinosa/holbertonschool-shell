@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 8 iacta | tail -n 8 
+head -n 7 iacta | tail -n 8 

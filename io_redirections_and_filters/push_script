@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "script to Create a script that displays the 10 newest files in the current directory."
+git commit -m "script that takes a list of words as input and prints only words that appear exactly once."
 git push

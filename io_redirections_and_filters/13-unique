@@ -1,2 +1,2 @@
 #!/bin/bash
-sort list | uniq -u -w 7
+sort list | uniq 

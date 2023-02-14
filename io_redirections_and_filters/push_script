@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Replace all characters A and c from input to Z and e respectively."
+git commit -m "Create a script that removes all letters c and C from input."
 git push

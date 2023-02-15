@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Create a script that prints hello user, where user is the current Linux user."
+git commit -m "Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program."
 git push

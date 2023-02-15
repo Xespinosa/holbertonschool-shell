@@ -1,2 +1,2 @@
-All files pertaining to the shell, init files, variables and expansions subject will be found here
+Directory containing all files related to shell, init, variables and expansions
 

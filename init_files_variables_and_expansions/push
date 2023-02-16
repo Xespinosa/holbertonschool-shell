@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Write a script that converts a number from base 2 to base 10."
+git commit -m "Create a script that prints all possible combinations of two letters, except oo."
 git push

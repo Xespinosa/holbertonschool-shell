@@ -1,2 +1,2 @@
 #!/bin/bash
-local NUM=128 |echo "$(( NUM  + TRUEKNOWLEDGE))"
+NUM="128" |echo "$(( NUM  + TRUEKNOWLEDGE))"

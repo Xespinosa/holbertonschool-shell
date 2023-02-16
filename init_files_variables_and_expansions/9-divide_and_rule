@@ -1,2 +1,2 @@
 #!/bin/bash
- echo "$POWER / $DIVIDE" | scale=2
+expr $POWER / $DIVIDE
